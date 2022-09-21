@@ -19,3 +19,11 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+O código foi estudado e compreendido por mim e depois preenchido onde encontrei a palavra "TODO". Foi testado e funcionou corretamente como esperado. Deletei os comentários para melhor apresentação do código.
+
+Neste desafio foi possível testar meu aprendizado sobre como implementar as classes em C# com suas propriedades, construtores e métodos, a interação entre elas, lidar com lista e cálculo do tamanho desta, operadores matemáticos e lógica booleana.
+
+Deixo aqui também registrado minha admiração pelo professor Leonardo Buta e minha "paixão" pela Pottencial Seguros.
+
+Eternamente grata aos amigos da DIO.
